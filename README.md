@@ -19,3 +19,8 @@ Gestor de Candidaturas e Estágios.
 ## Início
 
 19 de junho de 2026.
+
+## Progresso
+
+- [x] Dia 1 — Configuração do ambiente, primeiro programa e GitHub
+- [x] Dia 2 — Terminal e controlo de versões com Git
